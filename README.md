@@ -1,4 +1,7 @@
-I love to make video games and solve problems using math!
-I’m currently learning Kotlin, Assembly and Rust.
+Love to develop games, build helpful software, and solve problems using math!
+I use Python, Java, Javascript, and C.
+Currently learning Kotlin, C++, and Rust.
 
-I'm currently working on a tower defense game involving AI, as well as a 2D-adventure game.
+Studying Computer Science at the University of Toronto.
+
+Working on a 2D-adventure game in my free time, and currently recreating an event from my Dnd Campaign as a board game.
